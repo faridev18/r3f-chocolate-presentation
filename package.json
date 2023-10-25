@@ -1,0 +1,37 @@
+{
+  "name": "chocolate-landing-page",
+  "version": "1.0.0",
+  "description": "Chocolate page using React Three Fiber and Shaders transition",
+  "keywords": [
+    "threejs",
+    "anderson",
+    "react",
+    "chocolate",
+    "mancini"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "9.83.9",
+    "@react-three/fiber": "8.14.2",
+    "@react-three/postprocessing": "2.15.1",
+    "@types/three": "0.152.1",
+    "maath": "0.5.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "0.156.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
